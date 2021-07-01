@@ -1,5 +1,5 @@
 public class LeapYear{
-    public static void main(String args[]){
+    public static void main(String[] args){
         int i = Integer.parseInt(args[0]);
         boolean t = isLeapYear(i);
         if (t){
